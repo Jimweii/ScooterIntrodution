@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8B46C445293C868500E27927 /* ScooterIntrodution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScooterIntrodution.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B46C445293C868500E27927 /* YamahaMoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YamahaMoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B46C448293C868500E27927 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B46C44A293C868500E27927 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		8B46C44C293C868500E27927 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		8B46C446293C868500E27927 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8B46C445293C868500E27927 /* ScooterIntrodution.app */,
+				8B46C445293C868500E27927 /* YamahaMoto.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8B46C444293C868500E27927 /* ScooterIntrodution */ = {
+		8B46C444293C868500E27927 /* YamahaMoto */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B46C459293C868800E27927 /* Build configuration list for PBXNativeTarget "ScooterIntrodution" */;
+			buildConfigurationList = 8B46C459293C868800E27927 /* Build configuration list for PBXNativeTarget "YamahaMoto" */;
 			buildPhases = (
 				8B46C441293C868500E27927 /* Sources */,
 				8B46C442293C868500E27927 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = ScooterIntrodution;
+			name = YamahaMoto;
 			productName = ScooterIntrodution;
-			productReference = 8B46C445293C868500E27927 /* ScooterIntrodution.app */;
+			productReference = 8B46C445293C868500E27927 /* YamahaMoto.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8B46C440293C868500E27927 /* Build configuration list for PBXProject "ScooterIntrodution" */;
+			buildConfigurationList = 8B46C440293C868500E27927 /* Build configuration list for PBXProject "YamahaMoto" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8B46C444293C868500E27927 /* ScooterIntrodution */,
+				8B46C444293C868500E27927 /* YamahaMoto */,
 			);
 		};
 /* End PBXProject section */
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8B46C440293C868500E27927 /* Build configuration list for PBXProject "ScooterIntrodution" */ = {
+		8B46C440293C868500E27927 /* Build configuration list for PBXProject "YamahaMoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B46C457293C868800E27927 /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B46C459293C868800E27927 /* Build configuration list for PBXNativeTarget "ScooterIntrodution" */ = {
+		8B46C459293C868800E27927 /* Build configuration list for PBXNativeTarget "YamahaMoto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B46C45A293C868800E27927 /* Debug */,
